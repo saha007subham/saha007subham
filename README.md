@@ -1,5 +1,5 @@
                                                                Hi 👋 I’m Subham Saha
-I am a Software Developer skilled in MERN Stack who focuses on writing clean,elegant and and efficient code..
+I am a Software Developer skilled in MERN Stack who focuses on writing clean,elegant and efficient code..
 
 Technologies I use the most:
 -> JavaScript -> ReactJs -> NodeJs -> MongoDB -> ExpressJs -> HTML -> CSS -> BootStrap5 -> Git & Github.
