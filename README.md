@@ -7,6 +7,7 @@ Technologies I use the most:
 - 📫 How to reach me :
 - Twitter - @saha007subham
 - Email - saha007subham@gmail.com
+- LinkedIn - https://www.linkedin.com/in/saha007subham/
 
 <!---
 saha007subham/saha007subham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
