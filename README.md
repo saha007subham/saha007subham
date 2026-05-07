@@ -1,14 +1,59 @@
-                                                 Hi 👋 I’m Subham Saha
-Experienced Software Engineer with demonstrated history of working in the internet industry. Skilled in HTML, CSS, JavaScript, ReactJS and React Native. I am passionate about solving real-time problem, writing clean and scalable code to build highly interactive web & mobile apps. Apart from programming, Chess and Music have always attracted me!
+# Hi there 👋, I'm Subham Saha
 
-Connect with me on my social handles, will love to interact with you over there.
+### 🚀 Frontend Engineer | React.js Developer | Problem Solver
 
-- 📫 How to reach me :
-- Twitter - @saha007subham
-- Email - saha007subham@gmail.com
-- LinkedIn - https://www.linkedin.com/in/saha007subham/
+Passionate Software Engineer with **3+ years of experience** building scalable and production-ready web applications. I specialize in creating highly interactive user experiences using **React.js**, modern JavaScript, and frontend architecture best practices.
 
-<!---
-saha007subham/saha007subham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve successfully built and shipped products from scratch, including a complete **gamification platform** used by thousands of users globally.
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Frontend
+
+* React.js
+* JavaScript (ES6+)
+* Redux
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### ⚙️ Currently Exploring
+
+* System Design
+* Advanced React Patterns
+* Data Structures & Algorithms
+
+---
+
+## 🌟 What I Love Building
+
+* Scalable frontend architectures
+* Interactive dashboards & UI systems
+* Performance-optimized web apps
+* Real-world problem-solving applications
+
+---
+
+## 📈 Coding Profiles
+
+* 💻 LeetCode: https://leetcode.com/u/devSubham07/
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/saha007subham/
+* 🐦 Twitter/X: https://twitter.com/saha007subham
+* 📫 Email: [saha007subham@gmail.com](mailto:saha007subham@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, you’ll probably find me playing ♟️ Chess or listening to 🎵 Music.
+
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
