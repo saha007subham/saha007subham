@@ -46,7 +46,7 @@ I’ve successfully built and shipped products from scratch, including a complet
 
 * 💼 LinkedIn: https://www.linkedin.com/in/saha007subham/
 * 🐦 Twitter/X: https://twitter.com/saha007subham
-* 📫 Email: [saha007subham@gmail.com](mailto:saha007subham@gmail.com)
+* 📫 Email: [dev.subham07@gmail.com](mailto:dev.subham07@gmail.com)
 
 ---
 
