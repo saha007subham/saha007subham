@@ -56,4 +56,4 @@ When I’m not coding, you’ll probably find me playing ♟️ Chess or listeni
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.” – John Johnson.
